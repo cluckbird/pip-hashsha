@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 
 #############################################
-# File Name: hashsha.py
+# File Name: __init__.py
 # Author: cluckbird
 # Mail: admin@muzmn.cn
 # Created Time:  2020-11-3 16:35
